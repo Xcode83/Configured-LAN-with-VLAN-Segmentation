@@ -7,7 +7,8 @@ Inter-VLAN communication is enabled using a Router-on-a-Stick configuration on a
 The setup ensures network segmentation, improved security, and efficient traffic management within an enterprise environment.
 
 🧩 Network Topology
-![Uploading Screenshot 2025-10-07 221334.png…]()
+<img width="1109" height="678" alt="Screenshot 2025-10-07 221334" src="https://github.com/user-attachments/assets/884446c7-4322-47ab-bfaf-d469cfba01c4" />
+
 
 Devices Used:
 
